@@ -11,3 +11,4 @@ newtoki*.com##.basic-banner
 ||*/banner/*$image,domain=newtoki*.*
 ||newtoki81.com^$popup,third-party
 ||newtoki*.com^$popup,third-party
+||newtoki81.com/bbs/bannerhit.*
