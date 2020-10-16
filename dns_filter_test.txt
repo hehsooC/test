@@ -3,3 +3,11 @@
 newtoki81.com##.banner
 newtoki81.com##.basic-banner
 ||newtoki81.com/data/banner/*
+newtoki*.com##.banner
+newtoki*.com##.basic-banner
+||newtoki*.com/data/banner/*
+||newtoki81.com^$third-party
+||*/banner/*$image,domain=newtoki81.*
+||*/banner/*$image,domain=newtoki*.*
+||newtoki81.com^$popup,third-party
+||newtoki*.com^$popup,third-party
