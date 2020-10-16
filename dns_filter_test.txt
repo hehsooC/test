@@ -16,4 +16,4 @@ newtoki*.com##.basic-banner
 ||newtoki81.com/bbs/*
 ||newtoki*.com/bbs/bannerhit.*
 ||newtoki*.com/bbs/*
-
+||bit.ly/*
