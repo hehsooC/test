@@ -12,3 +12,7 @@ newtoki*.com##.basic-banner
 ||newtoki81.com^$popup,third-party
 ||newtoki*.com^$popup,third-party
 ||newtoki81.com/bbs/bannerhit.*
+||newtoki81.com/bbs/*
+||newtoki*.com/bbs/bannerhit.*
+||newtoki*.com/bbs/*
+
