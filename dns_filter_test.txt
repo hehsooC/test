@@ -1,5 +1,6 @@
 ! This is the comment. Under this line there is an actual filtering rule.
 ! This is a custom dns filter
+! work?
 newtoki81.com##.banner
 newtoki81.com##.basic-banner
 ||newtoki81.com/data/banner/*
